@@ -11,7 +11,7 @@ while i <3:
 # D)
 i= 0
 a=1
-while i <= 5:
+while i < 5:
     text = ('*'*a)
     text = text.center(20)
     print(text)
