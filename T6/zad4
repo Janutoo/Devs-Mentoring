@@ -1,0 +1,3 @@
+#Aby poprawnie wyświetlić polskie litery, konieczne jest użycie kodowania,
+#które obsługuje te znaki, takie jak UTF-8. Kodowanie ASCII nie jest wystarczające,
+#ponieważ nie obsługuje rozszerzonego zakresu znaków wymaganych dla polskiego alfabetu.
