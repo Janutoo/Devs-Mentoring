@@ -1,0 +1,19 @@
+{
+    "ksiazki": [
+        {
+            "tytul": "Władca Pierścieni",
+            "autor": "J.R.R. Tolkien",
+            "strony": 1178
+        },
+        {
+            "tytul": "Harry Potter i Kamień Filozoficzny",
+            "autor": "J.K. Rowling",
+            "strony": 309
+        },
+        {
+            "tytul": "Mały Książę",
+            "autor": "Antoine de Saint-Exupéry",
+            "strony": 96
+        }
+    ]
+}
