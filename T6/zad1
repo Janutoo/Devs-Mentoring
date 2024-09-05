@@ -1,0 +1,8 @@
+Określ, czy poniższe ścieżki do plików .txt są względne/bezwzględne:
+C:\przyklad.txt
+\katalog\przyklad.txt
+C:\outer_dir\inner_dir\przyklad.txt
+\outer_dir\innedr_dir\przyklad.txt 
+
+wszystkie ściekżki są bezwzględne ponieważ odnoszą sie do konkretnego miescja np dysku C lub backslasha co pokazuje na scieżke do katalogu 
+głownego na którym pracujemy 
