@@ -1,0 +1,19 @@
+{
+    "filmy": [
+        {
+            "tytul": "Incepcja",
+            "rok": 2010,
+            "gatunki": ["Sci-Fi", "Akcja", "Thriller"]
+        },
+        {
+            "tytul": "Titanic",
+            "rok": 1997,
+            "gatunki": ["Romans", "Dramat"]
+        },
+        {
+            "tytul": "Shrek",
+            "rok": 2001,
+            "gatunki": ["Animacja", "Komedia", "Familijny"]
+        }
+    ]
+}
