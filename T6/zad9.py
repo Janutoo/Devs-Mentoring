@@ -28,7 +28,7 @@ for item in data["imdata"]:
     if dn in ["topology/pod-1/node-201/sys/phys-[eth1/33]", "topology/pod-1/node-201/sys/phys-[eth1/34]", "topology/pod-1/node-201/sys/phys-[eth1/35]"]:
         description = attributes["descr"]
         speed = attributes['speed']
-        mtu = attributes.["mtu"]
+        mtu = attributes["mtu"]
         print(f"{dn:<50} {description:<20} {speed:<8} {mtu:<5}")
 
 
