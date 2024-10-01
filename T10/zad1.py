@@ -209,17 +209,20 @@ class Note:
 
 
 class Notebook:
+
     def __init__(self):
         self.lista = []
     
     def dodaj_nowa(self, autor, tresc):
         notatka = Note(autor, tresc)
         self.lista.append(notatka)
-    
+        ilosc+=1 
+
     def dodaj(self):
         pass
 
-    def ile_notatek(self):
+    def ile_notatek(self, ilosc):
+        
         pass
 
     def wyswietl_wszystko(self):
