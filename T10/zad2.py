@@ -1,2 +1,0 @@
-class Pojazdy:
-    pas
