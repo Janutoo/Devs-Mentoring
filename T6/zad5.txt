@@ -1,2 +1,0 @@
-przeczyta nam literke o ponieważ seek(43) ustawia nam kursosr na pozycji 43 
-a read(1) czytam nam jeden znak 
