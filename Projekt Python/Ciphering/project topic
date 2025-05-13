@@ -1,0 +1,23 @@
+wymagana znajomość:
+Python podstawowy
+Python zaawansowany
+Wzorce projektowe i Clean Code Python (katalog Design Principles)
+
+
+Zadanie Ciphering
+
+Stworzyć mini-projekt w oparciu o fasadę, który dostarczać będzie następujące funkcjonalności:
+
+1.Encrypt plain text (ROT47/ROT13)
+2.Save encrypted texts to file
+3.Decrypt encrypted text from file (ROT47/ROT13)
+4.Print encrypted words stored in memory
+5.Exit
+
+
+Plan : 
+
+kluczowe funkcjonalności: szyfrowanie, deszyfrowanie, zapis/odczyt z pliku, przechowywanie w pamięci, menu.
+
+
+

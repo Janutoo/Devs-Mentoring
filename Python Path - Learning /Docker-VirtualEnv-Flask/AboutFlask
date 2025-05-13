@@ -1,0 +1,5 @@
+flask_project/
+├── app.py
+├── templates/
+└── static/
+
