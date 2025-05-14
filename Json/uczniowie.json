@@ -1,0 +1,18 @@
+{    "uczniowie": [
+        {
+            "imie": "Jan",
+            "wiek": 15,
+            "przedmioty": ["Matematyka", "Biologia", "Historia"]
+        },
+        {
+            "imie": "Anna",
+            "wiek": 14,
+            "przedmioty": ["Chemia", "Fizyka", "Geografia"]
+        },
+        {
+            "imie": "Marek",
+            "wiek": 16,
+            "przedmioty": ["Matematyka", "Informatyka", "Wychowanie fizyczne"]
+        }
+    ]
+}
